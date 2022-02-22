@@ -1,0 +1,26 @@
+{
+  "mainMenu": {
+    "state": "En el menu Tempest",
+    "largeImageText": "Menu Inicial"
+  },
+  "loadingGame": {
+    "state": "Cargando el Tempest",
+    "largeImageText": "Minecraft",
+    "details": "Con %d mods"
+  },
+  "inGame": {
+    "multiPlayer": {
+      "largeImageText": {
+        "unknown": "Servidor desconocido",
+        "ip": "IP: %s"
+      },
+      "state": "Jugando con amigos \u003c3",
+      "details": "IGN: %s"
+    },
+    "singlePlayer": {
+      "state": "Probando mods Tempest",
+      "largeImageText": "World: %s",
+      "details": "IGN: %s"
+    }
+  }
+}
